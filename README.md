@@ -14,3 +14,4 @@ Consignes :
 
     - Pour vous aider, vous pouvez vous reporter à l'exercice précédent sur les objets en javascript.
 
+OK
